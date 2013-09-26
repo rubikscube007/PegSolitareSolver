@@ -1,4 +1,4 @@
-A Peg Solitare Solver written in java
+A Peg Solitaire Solver written in java
 Compile:javac *.java
 Run: java driver
 
