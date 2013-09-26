@@ -1,0 +1,7 @@
+A Peg Solitare Solver written in java
+Compile:javac *.java
+Run: java driver
+
+Note: It takes 1 command line parameter(integer between 0-14) so you can place where the initial hole is. 
+java driver 8 #puts the hole in the 8th positon in the array)
+
